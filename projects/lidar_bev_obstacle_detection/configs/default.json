@@ -1,0 +1,16 @@
+{
+  "max_points": 120000,
+  "x_min": -80.0,
+  "x_max": 20.0,
+  "y_min": -80.0,
+  "y_max": 100.0,
+  "z_min": -5.0,
+  "z_max": 15.0,
+  "bev_resolution": 0.25,
+  "ransac_iterations": 250,
+  "ground_distance_threshold": 0.2,
+  "seed": 42,
+  "dbscan_eps": 1.2,
+  "dbscan_min_samples": 20,
+  "min_cluster_points": 40
+}

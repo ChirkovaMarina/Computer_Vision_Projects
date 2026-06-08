@@ -1,0 +1,38 @@
+[
+  {
+    "source_file": "/Users/marinachirkova/Downloads/cv_book-master/data/LIDAR/lidar/xt1.022.001.robosenseCapture_1312970.laz",
+    "num_points": 57571,
+    "num_ground": 19357,
+    "num_nonground": 38214,
+    "num_clusters": 22,
+    "image_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_bev_obstacle_detection/outputs/xt1.022.001.robosenseCapture_1312970_bev_detection.png",
+    "summary_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_bev_obstacle_detection/outputs/xt1.022.001.robosenseCapture_1312970_summary.json"
+  },
+  {
+    "source_file": "/Users/marinachirkova/Downloads/cv_book-master/data/LIDAR/lidar/xt1.022.001.robosenseCapture_1313066.laz",
+    "num_points": 57568,
+    "num_ground": 19059,
+    "num_nonground": 38509,
+    "num_clusters": 21,
+    "image_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_bev_obstacle_detection/outputs/xt1.022.001.robosenseCapture_1313066_bev_detection.png",
+    "summary_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_bev_obstacle_detection/outputs/xt1.022.001.robosenseCapture_1313066_summary.json"
+  },
+  {
+    "source_file": "/Users/marinachirkova/Downloads/cv_book-master/data/LIDAR/lidar/xt1.022.001.robosenseCapture_1313166.laz",
+    "num_points": 57561,
+    "num_ground": 18978,
+    "num_nonground": 38583,
+    "num_clusters": 22,
+    "image_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_bev_obstacle_detection/outputs/xt1.022.001.robosenseCapture_1313166_bev_detection.png",
+    "summary_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_bev_obstacle_detection/outputs/xt1.022.001.robosenseCapture_1313166_summary.json"
+  },
+  {
+    "source_file": "/Users/marinachirkova/Downloads/cv_book-master/data/LIDAR/lidar/xt1.022.001.robosenseCapture_1313267.laz",
+    "num_points": 57561,
+    "num_ground": 19288,
+    "num_nonground": 38273,
+    "num_clusters": 22,
+    "image_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_bev_obstacle_detection/outputs/xt1.022.001.robosenseCapture_1313267_bev_detection.png",
+    "summary_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_bev_obstacle_detection/outputs/xt1.022.001.robosenseCapture_1313267_summary.json"
+  }
+]
