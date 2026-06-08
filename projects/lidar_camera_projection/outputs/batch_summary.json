@@ -1,0 +1,37 @@
+[
+  {
+    "point_cloud_source": "/Users/marinachirkova/Downloads/cv_book-master/data/LIDAR/lidar/xt1.022.001.robosenseCapture_1312866.laz",
+    "num_input_points": 38536,
+    "num_projected_points": 9371,
+    "overlay_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_camera_projection/outputs/xt1.022.001.robosenseCapture_1312866_camera_overlay.png",
+    "summary_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_camera_projection/outputs/xt1.022.001.robosenseCapture_1312866_projection_summary.json"
+  },
+  {
+    "point_cloud_source": "/Users/marinachirkova/Downloads/cv_book-master/data/LIDAR/lidar/xt1.022.001.robosenseCapture_1312970.laz",
+    "num_input_points": 38465,
+    "num_projected_points": 9297,
+    "overlay_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_camera_projection/outputs/xt1.022.001.robosenseCapture_1312970_camera_overlay.png",
+    "summary_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_camera_projection/outputs/xt1.022.001.robosenseCapture_1312970_projection_summary.json"
+  },
+  {
+    "point_cloud_source": "/Users/marinachirkova/Downloads/cv_book-master/data/LIDAR/lidar/xt1.022.001.robosenseCapture_1313066.laz",
+    "num_input_points": 38452,
+    "num_projected_points": 9246,
+    "overlay_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_camera_projection/outputs/xt1.022.001.robosenseCapture_1313066_camera_overlay.png",
+    "summary_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_camera_projection/outputs/xt1.022.001.robosenseCapture_1313066_projection_summary.json"
+  },
+  {
+    "point_cloud_source": "/Users/marinachirkova/Downloads/cv_book-master/data/LIDAR/lidar/xt1.022.001.robosenseCapture_1313166.laz",
+    "num_input_points": 38440,
+    "num_projected_points": 9238,
+    "overlay_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_camera_projection/outputs/xt1.022.001.robosenseCapture_1313166_camera_overlay.png",
+    "summary_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_camera_projection/outputs/xt1.022.001.robosenseCapture_1313166_projection_summary.json"
+  },
+  {
+    "point_cloud_source": "/Users/marinachirkova/Downloads/cv_book-master/data/LIDAR/lidar/xt1.022.001.robosenseCapture_1313267.laz",
+    "num_input_points": 38368,
+    "num_projected_points": 9257,
+    "overlay_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_camera_projection/outputs/xt1.022.001.robosenseCapture_1313267_camera_overlay.png",
+    "summary_path": "/Users/marinachirkova/Downloads/cv_book-master/projects/lidar_camera_projection/outputs/xt1.022.001.robosenseCapture_1313267_projection_summary.json"
+  }
+]

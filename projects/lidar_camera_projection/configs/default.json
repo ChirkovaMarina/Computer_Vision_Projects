@@ -1,0 +1,16 @@
+{
+  "video_file": "data/city/trm.169.007.avi",
+  "frame_index": 0,
+  "point_cloud": "data/LIDAR/lidar/xt1.022.001.robosenseCapture_1312866.laz",
+  "calib_file": "data/city/leftImage.yml",
+  "max_points": 120000,
+  "x_min": -40.0,
+  "x_max": 40.0,
+  "y_min": 0.0,
+  "y_max": 80.0,
+  "z_min": -5.0,
+  "z_max": 15.0,
+  "min_depth": 2.5,
+  "max_depth": 80.0,
+  "point_radius": 2
+}

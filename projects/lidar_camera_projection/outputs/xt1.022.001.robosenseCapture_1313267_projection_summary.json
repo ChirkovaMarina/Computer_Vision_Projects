@@ -1,0 +1,9 @@
+{
+  "image_source": "/Users/marinachirkova/Downloads/cv_book-master/data/city/trm.169.007.avi",
+  "point_cloud_source": "data/LIDAR/lidar/xt1.022.001.robosenseCapture_1313267.laz",
+  "calibration_source": "/Users/marinachirkova/Downloads/cv_book-master/data/city/leftImage.yml",
+  "num_input_points": 38368,
+  "num_projected_points": 9257,
+  "min_depth_m": 2.5,
+  "max_depth_m": 80.0
+}
