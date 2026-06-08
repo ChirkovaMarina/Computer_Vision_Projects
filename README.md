@@ -178,14 +178,6 @@ Scripts for LiDAR visualization, ground separation, clustering, multiple point c
 - `predict_pointnet_ground.py` — run PointNet inference and compare it with RANSAC.
 - `train_minkowski_ground.py` — Linux/CUDA-oriented sparse model example for MinkowskiEngine.
 
-### `homework`
-
-Assignment PDFs for the course:
-
-- `homework-1.pdf`
-- `homework-2.pdf`
-- `homework-3.pdf`
-
 ## Notes
 
 - Some scripts are pure demos and expect manual interaction through `cv2.imshow(...)`.
